@@ -1,0 +1,12 @@
+{
+  "name": "WatchBackend",
+  "packageManager": "yarn@4.2.2",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@fastify/aws-lambda": "^5.1.4",
+    "fastify": "^5.2.1",
+    "typeorm": "^0.3.20"
+  }
+}
